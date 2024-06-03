@@ -6,5 +6,4 @@ views = Blueprint('views', __name__)
 def home():
     return "<h1>Muhibz is smelly</h1>"
 
-wbawdauwb
 
